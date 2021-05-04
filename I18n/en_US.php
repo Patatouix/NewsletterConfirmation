@@ -1,5 +1,7 @@
 <?php
+
 return array(
-    'Newsletter subscription confirmation message' => 'Newsletter subscription confirmation message',
-    'Confirmation of your subscription to {config key="store_name"} newsletter' => 'Confirmation of your subscription to {config key="store_name"} newsletter'
+    'Your subscription to the %store newsletter on your email adress %email has been successfully confirmed !' => 'Your subscription to the %store newsletter on your email adress %email has been successfully confirmed !',
+    'An error occured during the newsletter subscription confirmation to %store.' => 'An error occured during the newsletter subscription confirmation to %store.',
+    'Your subscription to the %store newsletter on your email adress %email has already been confirmed.' => 'Your subscription to the %store newsletter on your email adress %email has already been confirmed.'
 );
